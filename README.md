@@ -15,3 +15,14 @@ Today's project was very easy and fast to write, looking forward to the next one
 
 **Link to work:** [Band name Generator](https://github.com/Mochitto/100-days-challenge/blob/main/1.%20Band%20name%20generator.py)
 
+----------------
+
+### Day 2: February 14, 2021 - Monday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: I've created a Bill calculator app! No more fights with my friends >:)
+
+**Thoughts:** The udemy course is proving to be rather interesting! The app is simple, but I feel like it was very useful to implement other tips on how to write cleaner code. I was also able to commit the files to the repository from git!
+
+**Link to work:** [Bill calculator](https://github.com/Mochitto/100-days-challenge/blob/main/2.%20Bill_calculator.py)
