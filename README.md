@@ -38,3 +38,16 @@ Today's project was very easy and fast to write, looking forward to the next one
 **Thoughts:** Today it was a bit hard to start watching the lessons... but as soon as I got to coding, I was able to focus a lot!
 
 **Link to work:** [Rock, Paper, Scissors!](https://github.com/Mochitto/100-days-challenge/blob/main/3.%20Rock%2C%20Paper%2C%20Scissors!.py)
+
+---------------
+
+### Day 4: February 16, 2021 - Wednesday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
