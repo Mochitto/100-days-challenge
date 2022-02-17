@@ -51,4 +51,14 @@ Today's project was very easy and fast to write, looking forward to the next one
 
 **Link to work:** [PyPassword Generator](https://github.com/Mochitto/100-days-challenge/blob/main/4.%20PyPassword_generator.py)
 
+---------------
 
+### Day 5: February 17, 2021 - Thursday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: I've revised loops! There was no real project today, but many challenges on Reeborg's world.
+
+**Thoughts:** Today the lesson was more on understanding the concept of loops, both while and for loops. Most of the code was pseudo-code, but was very useful to set things in my mind! I decided to link the last challenge of the day; creating an AI that can get out of a random maze.
+
+**Link to work:** [Reeborg's world's maze](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
