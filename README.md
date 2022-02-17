@@ -45,9 +45,10 @@ Today's project was very easy and fast to write, looking forward to the next one
 #####
 **Today's Topics:** Python
 
-**Today's Progress**: 
+**Today's Progress**: Made a Password generator!
 
-**Thoughts:** 
+**Thoughts:** Today was a busy day, I had to cover this project on the next day; got it done! Now it's time to get on to the next one.
 
-**Link to work:** 
+**Link to work:** [PyPassword Generator](https://github.com/Mochitto/100-days-challenge/blob/main/4.%20PyPassword_generator.py)
+
 
