@@ -70,8 +70,10 @@ Today's project was very easy and fast to write, looking forward to the next one
 #####
 **Today's Topics:** Python
 
-**Today's Progress**: Made another game app, this time is Hangman!
+**Today's Progress**: Made another game app, this time is Hangman! Later on the day, I've also made the Caesar Cipher!
 
-**Thoughts:** I've found out the course will get a bit worse after the first third of it; it apparently is outdated and without stupport. I'll go and finish it anyway probably. If anything, I'll get a lot of practice. 
+**Thoughts:** I've found out the course will get a bit worse after the first third of it; it apparently is outdated and without support. I'll go and finish it anyway probably. If anything, I'll get a lot of practice and I'm still quite excited about the portfolio projects!
 
-**Link to work:** [Hangman](https://github.com/Mochitto/100-days-challenge/blob/main/5.%20Hangman.py)
+**Links to works:** 
+1. [Hangman](https://github.com/Mochitto/100-days-challenge/blob/main/5.%20Hangman.py)  <br>
+2. [Caesar Chiper](https://github.com/Mochitto/100-days-challenge/blob/main/6.%20Caesar%20Cipher.py)
