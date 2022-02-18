@@ -62,3 +62,16 @@ Today's project was very easy and fast to write, looking forward to the next one
 **Thoughts:** Today the lesson was more on understanding the concept of loops, both while and for loops. Most of the code was pseudo-code, but was very useful to set things in my mind! I decided to link the last challenge of the day; creating an AI that can get out of a random maze.
 
 **Link to work:** [Reeborg's world's maze](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+
+----------------
+
+
+### Day 6: February 18, 2021 - Friday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Made another game app, this time is Hangman!
+
+**Thoughts:** I've found out the course will get a bit worse after the first third of it; it apparently is outdated and without stupport. I'll go and finish it anyway probably. If anything, I'll get a lot of practice. 
+
+**Link to work:** [Hangman](https://github.com/Mochitto/100-days-challenge/blob/main/5.%20Hangman.py)
