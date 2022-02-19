@@ -77,3 +77,16 @@ Today's project was very easy and fast to write, looking forward to the next one
 **Links to works:** 
 1. [Hangman](https://github.com/Mochitto/100-days-challenge/blob/main/5.%20Hangman.py)  <br>
 2. [Caesar Chiper](https://github.com/Mochitto/100-days-challenge/blob/main/6.%20Caesar%20Cipher.py)
+
+---------------
+
+### Day 7: February 19, 2021 - Saturday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: I've revised dictionaries! Got a Secret bidder app which kid of feels like eBay's!.
+
+**Thoughts:**  I feel like I had developed some bad habits regarding dictionaries from Automate the boring stuff; I'm happy I'm fixing those!
+
+**Link to work:** [Secret bidder](https://github.com/Mochitto/100-days-challenge/blob/main/7.%20Secret%20auction.py)
+
