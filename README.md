@@ -2,6 +2,7 @@
 ###### Idea from: https://www.100daysofcode.com/
 
 ![sakura](https://user-images.githubusercontent.com/98263539/153755762-37d2a0ea-98fa-4c13-b1a6-8519a426cb31.png)
+###### Image from: @oyasumimis
 
 ### Day 1: February 13, 2021 - Sunday
 #####
@@ -113,12 +114,17 @@ Today's project was very easy and fast to write, looking forward to the next one
 #####
 **Today's Topics:** Python
 
-**Today's Progress**: I've made four, FOUR apps! Revised dictionaries, functions and debugging!
+**Today's Progress**: Todau the focus was on OOP! 
 
-**Thoughts:**  Today I was on F-I-R-E! Out of this first week of the challenge, this was the day in which I got the most progress!
+**Thoughts:**  OOP is not an entirely new concept to me, but I didn't study it well, so I'm learning so much! The apps that I'm making are getting more and more complex!
 
 **Links to works:** 
-1. [CLI Calculator](https://github.com/Mochitto/100-days-challenge/blob/main/08.%20CLI%20Calculator.py) 
-2. [Backjack](https://github.com/Mochitto/100-days-challenge/blob/main/09.%20Blackjack.py)
-3. [Guess the number](https://github.com/Mochitto/100-days-challenge/blob/main/10.%20Guess%20the%20number.py)
-4. [Higher or Lower](https://github.com/Mochitto/100-days-challenge/blob/main/11.%20Higher%20or%20Lower.py)
+1. [Coffe machine](https://github.com/Mochitto/100-days-challenge/blob/main/13.%20Coffee%20machine.py) 
+2. [Quiz game](https://github.com/Mochitto/100-days-challenge/tree/main/14.%20Quiz%20game)
+
+---------------
+
+![falling stars](https://user-images.githubusercontent.com/98263539/155034577-6b01fbb5-55bf-4557-95f3-f1fffbcacb19.png)
+###### Image from: @oyasumimis
+
+
