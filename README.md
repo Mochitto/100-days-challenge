@@ -105,3 +105,20 @@ Today's project was very easy and fast to write, looking forward to the next one
 2. [Backjack](https://github.com/Mochitto/100-days-challenge/blob/main/09.%20Blackjack.py)
 3. [Guess the number](https://github.com/Mochitto/100-days-challenge/blob/main/10.%20Guess%20the%20number.py)
 4. [Higher or Lower](https://github.com/Mochitto/100-days-challenge/blob/main/11.%20Higher%20or%20Lower.py)
+
+
+---------------
+
+### Day 9: February 21, 2021 - Monday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: I've made four, FOUR apps! Revised dictionaries, functions and debugging!
+
+**Thoughts:**  Today I was on F-I-R-E! Out of this first week of the challenge, this was the day in which I got the most progress!
+
+**Links to works:** 
+1. [CLI Calculator](https://github.com/Mochitto/100-days-challenge/blob/main/08.%20CLI%20Calculator.py) 
+2. [Backjack](https://github.com/Mochitto/100-days-challenge/blob/main/09.%20Blackjack.py)
+3. [Guess the number](https://github.com/Mochitto/100-days-challenge/blob/main/10.%20Guess%20the%20number.py)
+4. [Higher or Lower](https://github.com/Mochitto/100-days-challenge/blob/main/11.%20Higher%20or%20Lower.py)
