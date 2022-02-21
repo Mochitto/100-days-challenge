@@ -75,7 +75,7 @@ Today's project was very easy and fast to write, looking forward to the next one
 **Thoughts:** I've found out the course will get a bit worse after the first third of it; it apparently is outdated and without support. I'll go and finish it anyway probably. If anything, I'll get a lot of practice and I'm still quite excited about the portfolio projects!
 
 **Links to works:** 
-1. [Hangman](https://github.com/Mochitto/100-days-challenge/blob/main/5.%20Hangman.py)  <br>
+1. [Hangman](https://github.com/Mochitto/100-days-challenge/blob/main/5.%20Hangman.py)
 2. [Caesar Chiper](https://github.com/Mochitto/100-days-challenge/blob/main/6.%20Caesar%20Cipher.py)
 
 ---------------
@@ -90,3 +90,35 @@ Today's project was very easy and fast to write, looking forward to the next one
 
 **Link to work:** [Secret bidder](https://github.com/Mochitto/100-days-challenge/blob/main/7.%20Secret%20auction.py)
 
+---------------
+
+### Day 8: February 20, 2021 - Sunday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: I've made four, FOUR apps! Revised dictionaries, functions and debugging!
+
+**Thoughts:**  Today I was on F-I-R-E! Out of this first week of the challenge, this was the day in which I got the most progress!
+
+**Links to works:** 
+1. [CLI Calculator](https://github.com/Mochitto/100-days-challenge/blob/main/08.%20CLI%20Calculator.py) 
+2. [Backjack](https://github.com/Mochitto/100-days-challenge/blob/main/09.%20Blackjack.py)
+3. [Guess the number](https://github.com/Mochitto/100-days-challenge/blob/main/10.%20Guess%20the%20number.py)
+4. [Higher or Lower](https://github.com/Mochitto/100-days-challenge/blob/main/11.%20Higher%20or%20Lower.py)
+
+
+---------------
+
+### Day 9: February 21, 2021 - Monday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: I've made four, FOUR apps! Revised dictionaries, functions and debugging!
+
+**Thoughts:**  Today I was on F-I-R-E! Out of this first week of the challenge, this was the day in which I got the most progress!
+
+**Links to works:** 
+1. [CLI Calculator](https://github.com/Mochitto/100-days-challenge/blob/main/08.%20CLI%20Calculator.py) 
+2. [Backjack](https://github.com/Mochitto/100-days-challenge/blob/main/09.%20Blackjack.py)
+3. [Guess the number](https://github.com/Mochitto/100-days-challenge/blob/main/10.%20Guess%20the%20number.py)
+4. [Higher or Lower](https://github.com/Mochitto/100-days-challenge/blob/main/11.%20Higher%20or%20Lower.py)
