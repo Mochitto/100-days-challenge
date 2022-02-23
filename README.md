@@ -114,7 +114,7 @@ Today's project was very easy and fast to write, looking forward to the next one
 #####
 **Today's Topics:** Python
 
-**Today's Progress**: Todau the focus was on OOP! 
+**Today's Progress**: Today the focus was on OOP! 
 
 **Thoughts:**  OOP is not an entirely new concept to me, but I didn't study it well, so I'm learning so much! The apps that I'm making are getting more and more complex!
 
@@ -124,7 +124,45 @@ Today's project was very easy and fast to write, looking forward to the next one
 
 ---------------
 
+### Day 10: February 22, 2021 - Tuesday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Started learning the turtle module!
+
+**Thoughts:** FINALLY creating something that has a visual feedback! Today's projects were very interesting and stimulating!
+
+**Gifs:** 
+Dot art                    |      Dancing Turtles! 
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/98263539/155378902-8566474d-5052-4f9d-841a-7b4d98c6a609.gif" width="350"/> |  ![YAY TURTLES](https://user-images.githubusercontent.com/98263539/155379042-5d3934a2-1361-4c10-a61d-bea16abf7af0.gif)
+
+
+**Links to works:** 
+1. [Dot art](https://github.com/Mochitto/100-days-challenge/blob/main/16.%20Dot%20art.py) 
+2. [Dancing Turtles!](https://github.com/Mochitto/100-days-challenge/blob/main/15.%20Dancing%20Turtles!.py)
+
+---------------
+
 ![falling stars](https://user-images.githubusercontent.com/98263539/155034577-6b01fbb5-55bf-4557-95f3-f1fffbcacb19.png)
 ###### Image from: @oyasumimis
 
+---------------
 
+### Day 11: February 23, 2021 - Wednesday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Got better at Turtle!
+
+**Thoughts:**  Today's lessons were focused on creating games with Turtle, with the final objective of learning how inheritances and OOP work. I'm very happy with the results!
+
+**Gif:** 
+Snake |
+:----------------:|
+![SNEK](https://user-images.githubusercontent.com/98263539/155381151-506752be-2351-4cd6-a5e2-7ca002265a77.gif) |
+
+
+**Link to work:** [Snake](https://github.com/Mochitto/100-days-challenge/tree/main/17.%20Snake) 
+
+---------------
