@@ -166,3 +166,22 @@ Snake |
 **Link to work:** [Snake](https://github.com/Mochitto/100-days-challenge/tree/main/17.%20Snake) 
 
 ---------------
+
+
+### Day 12: February 24, 2021 - Thursday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Yet another project with turtle, today was Pong's turn!
+
+**Thoughts:**  I feel like Turtle isn't the best way to go about making games... I struggled a lot with working today as I felt a lot the news about Ukraine and Russia... Hope tomorrow is a better day.
+
+**Gif:** 
+Pong |
+:----------------:|
+![SNEK] |
+
+
+**Link to work:** [Snake]
+
+---------------
