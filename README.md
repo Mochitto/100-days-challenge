@@ -174,14 +174,13 @@ Snake |
 
 **Today's Progress**: Yet another project with turtle, today was Pong's turn!
 
-**Thoughts:**  I feel like Turtle isn't the best way to go about making games... I struggled a lot with working today as I felt a lot the news about Ukraine and Russia... Hope tomorrow is a better day.
+**Thoughts:**  I feel like Turtle isn't the best way to go about making games... The game slows down due to the processes being memory-intensive. I have yet to see the solution from the course teacher abou this project, but I honestly do not think I'll come back to fix this. 
+I also struggled a lot with working today as I felt a lot the news about Ukraine and Russia... Hope tomorrow is a better day.
 
 **Gif:** 
 Pong |
 :----------------:|
-![SNEK] |
+![PONG](https://user-images.githubusercontent.com/98263539/155621137-6e30d1dc-46c2-4250-8882-b5240ea08467.gif) |
 
 
-**Link to work:** [Snake]
-
----------------
+**Link to work:** [PONG](https://github.com/Mochitto/100-days-challenge/tree/main/18.%20Pong)
