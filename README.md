@@ -174,7 +174,7 @@ Snake |
 
 **Today's Progress**: Yet another project with turtle, today was Pong's turn!
 
-**Thoughts:**  I feel like Turtle isn't the best way to go about making games... The game slows down due to the processes being memory-intensive. I have yet to see the solution from the course teacher abou this project, but I honestly do not think I'll come back to fix this. 
+**Thoughts:**  I feel like Turtle isn't the best way to go about making games... The game slows down due to the processes being memory-intense. I have yet to see the solution from the course teacher abou this project, but I honestly do not think I'll come back to fix this. 
 I also struggled a lot with working today as I felt a lot the news about Ukraine and Russia... Hope tomorrow is a better day.
 
 **Gif:** 
