@@ -192,3 +192,17 @@ Pong |
 #####
 
 **Thoughts:**  I couldn't get myself to study today; my whole attention was for the news... War rages on... Hope tomorrow will be a better day.
+
+
+---------------
+
+
+### Day 13.2: February 26, 2021 - Saturday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Learned about directories!
+
+**Thoughts:** I still need to get back in it, but I'm making progress!
+
+**Link to work:** [Snake](https://github.com/Mochitto/100-days-challenge/tree/main/17.%20Snake) 
