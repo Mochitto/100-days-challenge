@@ -201,8 +201,23 @@ Pong |
 #####
 **Today's Topics:** Python
 
-**Today's Progress**: Learned about directories!
+**Today's Progress**: Learned about directories! Added an highscore to the snake game after learning how to read/write files!
 
 **Thoughts:** I still need to get back in it, but I'm making progress!
 
 **Link to work:** [Snake](https://github.com/Mochitto/100-days-challenge/tree/main/17.%20Snake) 
+
+---------------
+
+
+### Day 14: February 27, 2021 - Sunday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Learned about list/dictionary comprehension and the very basics of panda!
+
+**Thoughts:** I feel like I'm getting back in it :) 
+
+**Link to works:**
+1. [US states game](https://github.com/Mochitto/100-days-challenge/tree/main/19.%20US%20states%20game)
+2. [NATO phonetic alphabet](https://github.com/Mochitto/100-days-challenge/tree/main/20.%20NATO%20phonetic%20alphabet)
