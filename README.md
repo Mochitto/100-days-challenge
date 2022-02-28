@@ -229,10 +229,10 @@ Pong |
 #####
 **Today's Topics:** Python
 
-**Today's Progress**: Learned about list/dictionary comprehension and the very basics of panda!
+**Today's Progress**: I've started learning about Tkinter! Made a pomodoro app and a Miles to Kms converter!
 
-**Thoughts:** I feel like I'm getting back in it :) 
+**Thoughts:** I think I will try and make a good pomodoro app! In the past, I looked a lot for a good one but it was never satisfying; fine, I'll do it myself!
 
 **Link to works:**
-1. [US states game](https://github.com/Mochitto/100-days-challenge/tree/main/19.%20US%20states%20game)
-2. [NATO phonetic alphabet](https://github.com/Mochitto/100-days-challenge/tree/main/20.%20NATO%20phonetic%20alphabet)
+1. [Miles - Kms converter](https://github.com/Mochitto/100-days-challenge/blob/main/21.%20Miles%20-%20Kms%20converter.py)
+2. [Pomodoro App](https://github.com/Mochitto/100-days-challenge/tree/main/22.%20Pomodoro%20App)
