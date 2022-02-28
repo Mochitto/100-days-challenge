@@ -221,3 +221,18 @@ Pong |
 **Link to works:**
 1. [US states game](https://github.com/Mochitto/100-days-challenge/tree/main/19.%20US%20states%20game)
 2. [NATO phonetic alphabet](https://github.com/Mochitto/100-days-challenge/tree/main/20.%20NATO%20phonetic%20alphabet)
+
+---------------
+
+
+### Day 15: February 28, 2021 - Monday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Learned about list/dictionary comprehension and the very basics of panda!
+
+**Thoughts:** I feel like I'm getting back in it :) 
+
+**Link to works:**
+1. [US states game](https://github.com/Mochitto/100-days-challenge/tree/main/19.%20US%20states%20game)
+2. [NATO phonetic alphabet](https://github.com/Mochitto/100-days-challenge/tree/main/20.%20NATO%20phonetic%20alphabet)
