@@ -239,13 +239,31 @@ Pong |
 
 --------------
 
-### Day 16: February 29, 2021 - Tuesday
+### Day 16: March 1, 2021 - Tuesday
 
 **Today's Topics:** Python
 
 **Today's Progress**: More TKinter!
 
 **Thoughts:**  Today I tried a bit more to make the app look good, and I'm fairly satisfied by the result! GUI making takes so long tho...
+
+**Gif:** 
+Password manager |
+:----------------:|
+![Password manager](https://user-images.githubusercontent.com/98263539/156274254-48355c7f-0b12-4c2a-9d3b-50540c2de182.gif) |
+
+
+**Link to work:** [Password manager](https://github.com/Mochitto/100-days-challenge/tree/main/23.%20Password%20manager)
+
+--------------
+
+### Day 17: March 21, 2021 - Wednesday
+
+**Today's Topics:** Python
+
+**Today's Progress**: Learned what JSON files are and how to read them in python!
+
+**Thoughts:**  I've updated the password manager by adding a search option and a json database (instead of a txt). Still not quite useful without encrypting the files, but it's a good start!
 
 **Gif:** 
 Password manager |
