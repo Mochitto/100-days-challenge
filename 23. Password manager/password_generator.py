@@ -11,7 +11,14 @@ def generator(length: int, **kwargs: int) -> str:
     Accepts kw: A=(Uppercase), a=(lowercase), num=(numbers), symb=(symbols).
     length = length of the password.
     If kw are left untouched, it defaults to 1/4 of length to alfa, with remainder evenly distributed between symbols
-    and numbers (the first being preferred for extra remainder)"""
+    and numbers (the first being preferred for extra remainder).
+    """
+    # Exceptions handling
+    if not str(length).isdigit() or length < 0:
+        raise ValueError("Length must be a positive integer.")
+    for value in kwargs.values():
+        if not str(value).isdigit() or value < 0:
+            raise ValueError("KeyWord argument must be a positive integer.")
 
     # CONSTANT
     CHARACTERS = {
@@ -69,4 +76,4 @@ def generator(length: int, **kwargs: int) -> str:
 
 
 if __name__ == "__main__":
-    print(generator(18, a=3, A=2))
+    print(generator("ciao", a=3, A=2))
