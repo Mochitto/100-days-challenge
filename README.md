@@ -257,7 +257,7 @@ Password manager |
 
 --------------
 
-### Day 17: March 21, 2021 - Wednesday
+### Day 17: March 2, 2021 - Wednesday
 
 **Today's Topics:** Python
 
@@ -275,7 +275,7 @@ Password manager |
 
 --------------
 
-### Day 17: March 21, 2021 - Wednesday
+### Day 18: March 3, 2021 - Thursday
 
 **Today's Topics:** Python
 
