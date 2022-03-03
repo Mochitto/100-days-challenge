@@ -272,3 +272,14 @@ Password manager |
 
 
 **Link to work:** [Password manager](https://github.com/Mochitto/100-days-challenge/tree/main/23.%20Password%20manager)
+
+--------------
+
+### Day 17: March 21, 2021 - Wednesday
+
+**Today's Topics:** Python
+
+**Today's Progress**: Today I've started playing with APIs! 
+
+**Thoughts:**  I've made four projects but I found them easy or uninspiring, so much I don't think it's worth spending the time it would take to clean up the code to upload it on github... 
+One was a program that send automatic mails to friends (while needing permissions for less secure apps), another was a project that would tell you when the ISS was above you, after sunset (using two APIs), then an app that tells you random kanye quotes (API) and a last one that is a Quizz game (API) with an UI.
