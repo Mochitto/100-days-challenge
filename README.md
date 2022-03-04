@@ -4,7 +4,7 @@
 ![sakura](https://user-images.githubusercontent.com/98263539/153755762-37d2a0ea-98fa-4c13-b1a6-8519a426cb31.png)
 ###### Image from: @oyasumimis
 
-### Day 1: February 13, 2021 - Sunday
+### Day 1: February 13, 2022 - Sunday
 #####
 **Today's Topics:** Git/GitHub and Python
 
@@ -18,7 +18,7 @@ Today's project was very easy and fast to write, looking forward to the next one
 
 ----------------
 
-### Day 2: February 14, 2021 - Monday
+### Day 2: February 14, 2022 - Monday
 #####
 **Today's Topics:** Python
 
@@ -30,7 +30,7 @@ Today's project was very easy and fast to write, looking forward to the next one
 
 ---------------
 
-### Day 3: February 15, 2021 - Tuesday
+### Day 3: February 15, 2022 - Tuesday
 #####
 **Today's Topics:** Python
 
@@ -42,7 +42,7 @@ Today's project was very easy and fast to write, looking forward to the next one
 
 ---------------
 
-### Day 4: February 16, 2021 - Wednesday
+### Day 4: February 16, 2022 - Wednesday
 #####
 **Today's Topics:** Python
 
@@ -54,7 +54,7 @@ Today's project was very easy and fast to write, looking forward to the next one
 
 ---------------
 
-### Day 5: February 17, 2021 - Thursday
+### Day 5: February 17, 2022 - Thursday
 #####
 **Today's Topics:** Python
 
@@ -67,7 +67,7 @@ Today's project was very easy and fast to write, looking forward to the next one
 ----------------
 
 
-### Day 6: February 18, 2021 - Friday
+### Day 6: February 18, 2022 - Friday
 #####
 **Today's Topics:** Python
 
@@ -81,7 +81,7 @@ Today's project was very easy and fast to write, looking forward to the next one
 
 ---------------
 
-### Day 7: February 19, 2021 - Saturday
+### Day 7: February 19, 2022 - Saturday
 #####
 **Today's Topics:** Python
 
@@ -93,7 +93,7 @@ Today's project was very easy and fast to write, looking forward to the next one
 
 ---------------
 
-### Day 8: February 20, 2021 - Sunday
+### Day 8: February 20, 2022 - Sunday
 #####
 **Today's Topics:** Python
 
@@ -110,7 +110,7 @@ Today's project was very easy and fast to write, looking forward to the next one
 
 ---------------
 
-### Day 9: February 21, 2021 - Monday
+### Day 9: February 21, 2022 - Monday
 #####
 **Today's Topics:** Python
 
@@ -124,7 +124,7 @@ Today's project was very easy and fast to write, looking forward to the next one
 
 ---------------
 
-### Day 10: February 22, 2021 - Tuesday
+### Day 10: February 22, 2022 - Tuesday
 #####
 **Today's Topics:** Python
 
@@ -149,7 +149,7 @@ Dot art                    |      Dancing Turtles!
 
 ---------------
 
-### Day 11: February 23, 2021 - Wednesday
+### Day 11: February 23, 2022 - Wednesday
 #####
 **Today's Topics:** Python
 
@@ -168,7 +168,7 @@ Snake |
 ---------------
 
 
-### Day 12: February 24, 2021 - Thursday
+### Day 12: February 24, 2022 - Thursday
 #####
 **Today's Topics:** Python
 
@@ -188,7 +188,7 @@ Pong |
 
 ---------------
 
-### Day 13.1: February 25, 2021 - Friday
+### Day 13.1: February 25, 2022 - Friday
 #####
 
 **Thoughts:**  I couldn't get myself to study today; my whole attention was for the news... War rages on... Hope tomorrow will be a better day.
@@ -197,7 +197,7 @@ Pong |
 ---------------
 
 
-### Day 13.2: February 26, 2021 - Saturday
+### Day 13.2: February 26, 2022 - Saturday
 #####
 **Today's Topics:** Python
 
@@ -210,7 +210,7 @@ Pong |
 ---------------
 
 
-### Day 14: February 27, 2021 - Sunday
+### Day 14: February 27, 2022 - Sunday
 #####
 **Today's Topics:** Python
 
@@ -225,7 +225,7 @@ Pong |
 ---------------
 
 
-### Day 15: February 28, 2021 - Monday
+### Day 15: February 28, 2022 - Monday
 #####
 **Today's Topics:** Python
 
@@ -239,7 +239,7 @@ Pong |
 
 --------------
 
-### Day 16: March 1, 2021 - Tuesday
+### Day 16: March 1, 2022 - Tuesday
 
 **Today's Topics:** Python
 
@@ -257,7 +257,7 @@ Password manager |
 
 --------------
 
-### Day 17: March 2, 2021 - Wednesday
+### Day 17: March 2, 2022 - Wednesday
 
 **Today's Topics:** Python
 
@@ -275,7 +275,7 @@ Password manager |
 
 --------------
 
-### Day 18: March 3, 2021 - Thursday
+### Day 18: March 3, 2022 - Thursday
 
 **Today's Topics:** Python
 
@@ -283,3 +283,27 @@ Password manager |
 
 **Thoughts:**  I've made four projects but I found them easy or uninspiring, so much I don't think it's worth spending the time it would take to clean up the code to upload it on github... 
 One was a program that send automatic mails to friends (while needing permissions for less secure apps), another was a project that would tell you when the ISS was above you, after sunset (using two APIs), then an app that tells you random kanye quotes (API) and a last one that is a Quizz game (API) with an UI.
+
+
+--------------
+
+### Day 19: March 4, 2022 - Thursday
+/100-days-challenge 
+**Today's Topics:** Python
+
+**Today's Progress**: Today I've started playing with APIs! 
+
+**Thoughts:**  
+
+**Today's Progress**: More TKinter!
+
+**Thoughts:**  Today I tried a bit more to make the app look good, and I'm fairly satisfied by the result! GUI making takes so long tho...
+
+**Gif:** 
+Password manager |
+:----------------:|
+![Password manager](https://user-images.githubusercontent.com/98263539/156274254-48355c7f-0b12-4c2a-9d3b-50540c2de182.gif) |
+
+
+**Link to work:** [Password manager](https://github.com/Mochitto/100-days-challenge/tree/main/23.%20Password%20manager)
+
