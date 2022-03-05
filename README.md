@@ -287,7 +287,7 @@ One was a program that send automatic mails to friends (while needing permission
 
 --------------
 
-### Day 19: March 4, 2022 - Thursday
+### Day 19: March 4, 2022 - Friday
 #####
 **Today's Topics:** Python
 
@@ -301,3 +301,13 @@ One was a program that send automatic mails to friends (while needing permission
 
 ---------------
 
+### Day 20: March 5, 2022 - Saturday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: More APIs, more requests, more coffee!!
+
+**Thoughts:** These days' lessons are more on the technical side and I don't feel like the apps that are being suggested on the course are very interesting... I've decided to try and develop a Pomorodo studying app, so I'll be picking up another course on how to use Qt with python soon! 
+I hope the development will start soon :)
+
+---------------
