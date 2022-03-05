@@ -240,7 +240,7 @@ Pong |
 --------------
 
 ### Day 16: March 1, 2022 - Tuesday
-
+#####
 **Today's Topics:** Python
 
 **Today's Progress**: More TKinter!
@@ -258,7 +258,7 @@ Password manager |
 --------------
 
 ### Day 17: March 2, 2022 - Wednesday
-
+#####
 **Today's Topics:** Python
 
 **Today's Progress**: Learned what JSON files are and how to read them in python!
@@ -276,7 +276,7 @@ Password manager |
 --------------
 
 ### Day 18: March 3, 2022 - Thursday
-
+#####
 **Today's Topics:** Python
 
 **Today's Progress**: Today I've started playing with APIs! 
@@ -288,22 +288,16 @@ One was a program that send automatic mails to friends (while needing permission
 --------------
 
 ### Day 19: March 4, 2022 - Thursday
-/100-days-challenge 
+#####
 **Today's Topics:** Python
 
 **Today's Progress**: Today I've started playing with APIs! 
 
-**Thoughts:**  
+**Thoughts:**  I always thought they would be much more complex, but they are pretty understandable! The weather forecast program was supposed to be used with Twilio API, but I do not feel comfortable using it, as money is involved in its transactions.
 
-**Today's Progress**: More TKinter!
+**Link to works:** 
+1. [IIS space station overhead](https://github.com/Mochitto/100-days-challenge/blob/main/24.%20IIS%20space%20station%20and%20sunrise%20API.py)
+2. [Weather forecast](https://github.com/Mochitto/100-days-challenge/blob/main/25.%20weather%20forecast%20API.py)
 
-**Thoughts:**  Today I tried a bit more to make the app look good, and I'm fairly satisfied by the result! GUI making takes so long tho...
-
-**Gif:** 
-Password manager |
-:----------------:|
-![Password manager](https://user-images.githubusercontent.com/98263539/156274254-48355c7f-0b12-4c2a-9d3b-50540c2de182.gif) |
-
-
-**Link to work:** [Password manager](https://github.com/Mochitto/100-days-challenge/tree/main/23.%20Password%20manager)
+---------------
 
