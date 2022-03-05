@@ -293,7 +293,7 @@ One was a program that send automatic mails to friends (while needing permission
 
 **Today's Progress**: Today I've started playing with APIs! 
 
-**Thoughts:**  I always thought they would be much more complex, but they are pretty understandable! The weather forecast program was supposed to be used with Twilio API, but I do not feel comfortable using it, as money is involved in its transactions.
+**Thoughts:**  I always thought they would be much more complex, but they are pretty understandable! The weather forecast program was supposed to be used with Twilio API, but I do not feel comfortable using it, as money is involved in its transactions. I've also cleaned up the code of the IIS program from yesterday.
 
 **Link to works:** 
 1. [IIS space station overhead](https://github.com/Mochitto/100-days-challenge/blob/main/24.%20IIS%20space%20station%20and%20sunrise%20API.py)
