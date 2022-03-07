@@ -311,3 +311,13 @@ One was a program that send automatic mails to friends (while needing permission
 I hope the development will start soon :)
 
 ---------------
+
+### Day 21: March 6, 2022 - Sunday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: I've decided to learn how to use PyQt to make better UIs!
+
+**Thoughts:** I've bought a new course and decided to put the other one in stand-by for a while, as I feel like it's important to create better UIs for the upcoming projects. Tkinter looks convenient for fast UIs, but I sadly can't think such UIs could be used for real projects that could be shared with non-tech-savvy people, that also look for an eye-candy app, not just functionalities.
+
+---------------
