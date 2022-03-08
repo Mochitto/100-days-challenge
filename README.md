@@ -331,3 +331,4 @@ I hope the development will start soon :)
 **Thoughts:** Today I've spend most of the time doing typing practice and writing code in an issue! I'll go back to Qt tomorrow morning!
 
 ---------------
+
