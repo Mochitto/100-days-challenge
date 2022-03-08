@@ -321,3 +321,13 @@ I hope the development will start soon :)
 **Thoughts:** I've bought a new course and decided to put the other one in stand-by for a while, as I feel like it's important to create better UIs for the upcoming projects. Tkinter looks convenient for fast UIs, but I sadly can't think such UIs could be used for real projects that could be shared with non-tech-savvy people, that also look for an eye-candy app, not just functionalities.
 
 ---------------
+
+### Day 22: March 7, 2022 - Monday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Learned to make issues on github!
+
+**Thoughts:** Today I've spend most of the time doing typing practice and writing code in an issue! I'll go back to Qt tomorrow morning!
+
+---------------
