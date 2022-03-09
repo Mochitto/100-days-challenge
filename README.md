@@ -332,3 +332,16 @@ I hope the development will start soon :)
 
 ---------------
 
+### Day 23: March 8, 2022 - Tuesday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Focused on Qt with PyQt.
+
+---------------
+
+### Day 24: March 9, 2022 - Wednesday
+#####
+**Today's Topics:** Python
+
+**Thoughts:** I got close to having a burnout today; the Qt course turned out to be kind of bad, spent most of the day to look for alternatives. The documentation alone from PyQt and Pyside is not enough and feels messy. PysimpleGui feels like glorified Tk... I feel like the best thing nowadays is looking towards the web and web-like GUIs (in electron?). I'll start studing some js on and focus on deepening my python knowledge on the side.
