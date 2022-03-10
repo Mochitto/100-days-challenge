@@ -345,3 +345,16 @@ I hope the development will start soon :)
 **Today's Topics:** Python
 
 **Thoughts:** I got close to having a burnout today; the Qt course turned out to be kind of bad, spent most of the day to look for alternatives. The documentation alone from PyQt and Pyside is not enough and feels messy. PysimpleGui feels like glorified Tk... I feel like the best thing nowadays is looking towards the web and web-like GUIs (in electron?). I'll start studing some js on and focus on deepening my python knowledge on the side.
+
+---------------
+
+### Day 25: March 10, 2022 - Thursday
+#####
+**Today's Topics:** Python
+
+**Thoughts:** I've lost my log streak, it's kind of sad to see the hole in the heat-map because I'm logging after midnight :(
+After deciding to pick up html, css and js for electron, I've found out about 100Devs and I will be following their course!
+I will keep on working mostly in python and do it on the side; since the new part of the Angela Yu course is about web scraping and the like, I will wait a while to get the hang of HTML and CSS before venturing into it, by following the course "Python 3: Deep dive".
+
+
+
