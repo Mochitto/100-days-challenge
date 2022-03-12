@@ -356,5 +356,13 @@ I hope the development will start soon :)
 After deciding to pick up html, css and js for electron, I've found out about 100Devs and I will be following their course!
 I will keep on working mostly in python and do it on the side; since the new part of the Angela Yu course is about web scraping and the like, I will wait a while to get the hang of HTML and CSS before venturing into it, by following the course "Python 3: Deep dive".
 
+---------------
 
+### Day 26: March 11, 2022 - Friday
+#####
+**Today's Topics:** Python
 
+**Today's Progress**: Huge break-through with Qt!
+
+**Thoughts:** Altough I had thought I wouldn't be able to make UIs in Qt due to the lack of materials, I finally found a wonderful youtube account that has made over 150 videos on Qt for python! Today alone, I've gone through 15 of them and already feel like I'm getting a good grasp of how things work :)
+I still want to learn some HTML and CSS, but I feel like this discovery will make my progresses slower in those ahah
