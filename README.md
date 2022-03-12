@@ -1,6 +1,6 @@
 # 100 Days Of Code - Growing as a self-taught Software developer
 ###### Idea from: https://www.100daysofcode.com/
-###### Jump to: [Day 10](https://github.com/Mochitto/100-days-challenge/edit/main/README.md#day-11-february-23-2022---wednesday) | [Day 20](https://github.com/Mochitto/100-days-challenge/edit/main/README.md#day-21-march-6-2022---sunday)
+###### Jump to: [Day 10](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-10-20) | [Day 20](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-20-30)
 
 ![sakura](https://user-images.githubusercontent.com/98263539/153755762-37d2a0ea-98fa-4c13-b1a6-8519a426cb31.png)
 ###### Image from: @oyasumimis
@@ -144,6 +144,7 @@ Dot art                    |      Dancing Turtles!
 2. [Dancing Turtles!](https://github.com/Mochitto/100-days-challenge/blob/main/15.%20Dancing%20Turtles!.py)
 
 ---------------
+### Days 10-20
 
 ![falling stars](https://user-images.githubusercontent.com/98263539/155034577-6b01fbb5-55bf-4557-95f3-f1fffbcacb19.png)
 ###### Image from: @oyasumimis
@@ -312,6 +313,7 @@ One was a program that send automatic mails to friends (while needing permission
 I hope the development will start soon :)
 
 ---------------
+### Days 20-30
 
 ![moon](https://user-images.githubusercontent.com/98263539/157999684-517ddb2d-005e-4cf1-a9f8-5426a42b04f2.jpeg)
 ###### Image from: @oyasumimis
