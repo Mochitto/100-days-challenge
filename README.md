@@ -312,6 +312,11 @@ I hope the development will start soon :)
 
 ---------------
 
+![moon](https://user-images.githubusercontent.com/98263539/157999684-517ddb2d-005e-4cf1-a9f8-5426a42b04f2.jpeg)
+###### Image from: @oyasumimis
+
+---------------
+
 ### Day 21: March 6, 2022 - Sunday
 #####
 **Today's Topics:** Python
