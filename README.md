@@ -240,7 +240,7 @@ Pong |
 --------------
 
 ### Day 16: March 1, 2022 - Tuesday
-
+#####
 **Today's Topics:** Python
 
 **Today's Progress**: More TKinter!
@@ -258,7 +258,7 @@ Password manager |
 --------------
 
 ### Day 17: March 2, 2022 - Wednesday
-
+#####
 **Today's Topics:** Python
 
 **Today's Progress**: Learned what JSON files are and how to read them in python!
@@ -276,7 +276,7 @@ Password manager |
 --------------
 
 ### Day 18: March 3, 2022 - Thursday
-
+#####
 **Today's Topics:** Python
 
 **Today's Progress**: Today I've started playing with APIs! 
@@ -287,23 +287,82 @@ One was a program that send automatic mails to friends (while needing permission
 
 --------------
 
-### Day 19: March 4, 2022 - Thursday
-/100-days-challenge 
+### Day 19: March 4, 2022 - Friday
+#####
 **Today's Topics:** Python
 
 **Today's Progress**: Today I've started playing with APIs! 
 
-**Thoughts:**  
+**Thoughts:**  I always thought they would be much more complex, but they are pretty understandable! The weather forecast program was supposed to be used with Twilio API, but I do not feel comfortable using it, as money is involved in its transactions. I've also cleaned up the code of the IIS program from yesterday.
 
-**Today's Progress**: More TKinter!
+**Link to works:** 
+1. [IIS space station overhead](https://github.com/Mochitto/100-days-challenge/blob/main/24.%20IIS%20space%20station%20and%20sunrise%20API.py)
+2. [Weather forecast](https://github.com/Mochitto/100-days-challenge/blob/main/25.%20weather%20forecast%20API.py)
 
-**Thoughts:**  Today I tried a bit more to make the app look good, and I'm fairly satisfied by the result! GUI making takes so long tho...
+---------------
 
-**Gif:** 
-Password manager |
-:----------------:|
-![Password manager](https://user-images.githubusercontent.com/98263539/156274254-48355c7f-0b12-4c2a-9d3b-50540c2de182.gif) |
+### Day 20: March 5, 2022 - Saturday
+#####
+**Today's Topics:** Python
 
+**Today's Progress**: More APIs, more requests, more coffee!!
 
-**Link to work:** [Password manager](https://github.com/Mochitto/100-days-challenge/tree/main/23.%20Password%20manager)
+**Thoughts:** These days' lessons are more on the technical side and I don't feel like the apps that are being suggested on the course are very interesting... I've decided to try and develop a Pomorodo studying app, so I'll be picking up another course on how to use Qt with python soon! 
+I hope the development will start soon :)
 
+---------------
+
+### Day 21: March 6, 2022 - Sunday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: I've decided to learn how to use PyQt to make better UIs!
+
+**Thoughts:** I've bought a new course and decided to put the other one in stand-by for a while, as I feel like it's important to create better UIs for the upcoming projects. Tkinter looks convenient for fast UIs, but I sadly can't think such UIs could be used for real projects that could be shared with non-tech-savvy people, that also look for an eye-candy app, not just functionalities.
+
+---------------
+
+### Day 22: March 7, 2022 - Monday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Learned to make issues on github!
+
+**Thoughts:** Today I've spend most of the time doing typing practice and writing code in an issue! I'll go back to Qt tomorrow morning!
+
+---------------
+
+### Day 23: March 8, 2022 - Tuesday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Focused on Qt with PyQt.
+
+---------------
+
+### Day 24: March 9, 2022 - Wednesday
+#####
+**Today's Topics:** Python
+
+**Thoughts:** I got close to having a burnout today; the Qt course turned out to be kind of bad, spent most of the day to look for alternatives. The documentation alone from PyQt and Pyside is not enough and feels messy. PysimpleGui feels like glorified Tk... I feel like the best thing nowadays is looking towards the web and web-like GUIs (in electron?). I'll start studing some js on and focus on deepening my python knowledge on the side.
+
+---------------
+
+### Day 25: March 10, 2022 - Thursday
+#####
+**Today's Topics:** Python
+
+**Thoughts:** I've lost my log streak, it's kind of sad to see the hole in the heat-map because I'm logging after midnight :(
+After deciding to pick up html, css and js for electron, I've found out about 100Devs and I will be following their course!
+I will keep on working mostly in python and do it on the side; since the new part of the Angela Yu course is about web scraping and the like, I will wait a while to get the hang of HTML and CSS before venturing into it, by following the course "Python 3: Deep dive".
+
+---------------
+
+### Day 26: March 11, 2022 - Friday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Huge break-through with Qt!
+
+**Thoughts:** Altough I had thought I wouldn't be able to make UIs in Qt due to the lack of materials, I finally found a wonderful youtube account that has made over 150 videos on Qt for python! Today alone, I've gone through 15 of them and already feel like I'm getting a good grasp of how things work :)
+I still want to learn some HTML and CSS, but I feel like this discovery will make my progresses slower in those ahah
