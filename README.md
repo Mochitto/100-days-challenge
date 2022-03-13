@@ -374,3 +374,13 @@ I will keep on working mostly in python and do it on the side; since the new par
 
 **Thoughts:** Altough I had thought I wouldn't be able to make UIs in Qt due to the lack of materials, I finally found a wonderful youtube account that has made over 150 videos on Qt for python! Today alone, I've gone through 15 of them and already feel like I'm getting a good grasp of how things work :)
 I still want to learn some HTML and CSS, but I feel like this discovery will make my progresses slower in those ahah
+
+---------------
+
+### Day 27: March 12, 2022 - Saturday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Working hard on the pomodoro app!
+
+**Thoughts:** I managed to make an heatmap work, tomorrow I'll add the interactivity and the animations!
