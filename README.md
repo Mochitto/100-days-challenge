@@ -384,3 +384,22 @@ I still want to learn some HTML and CSS, but I feel like this discovery will mak
 **Today's Progress**: Working hard on the pomodoro app!
 
 **Thoughts:** I managed to make an heatmap work, tomorrow I'll add the interactivity and the animations!
+
+**Pictures:** ![Heatmap demo](https://user-images.githubusercontent.com/98263539/158082937-caeec7aa-884a-4a4b-b6d5-9d8b47dcadbb.png)
+
+
+---------------
+
+### Day 28: March 13, 2022 - Sunday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Still on that grind! Figured out a bit more about how animations work in QT!
+
+**Thoughts:** Finding good documentation, understanding how things work and implementing new ideas is such a mental workout! I'm so happy with the result; tomorrow I will add a breathing animation to the selected square and the possibility for them to change color! I'm so excited!
+
+**Gif:** 
+Password manager |
+:----------------:|
+![Heatmap animation](https://user-images.githubusercontent.com/98263539/158083172-b147ce43-4e23-41b5-b4dc-3074c5d9c0c8.gif) |
+
