@@ -399,7 +399,22 @@ I still want to learn some HTML and CSS, but I feel like this discovery will mak
 **Thoughts:** Finding good documentation, understanding how things work and implementing new ideas is such a mental workout! I'm so happy with the result; tomorrow I will add a breathing animation to the selected square and the possibility for them to change color! I'm so excited!
 
 **Gif:** 
-Password manager |
+Heatmap generation |
 :----------------:|
 ![Heatmap animation](https://user-images.githubusercontent.com/98263539/158083172-b147ce43-4e23-41b5-b4dc-3074c5d9c0c8.gif) |
 
+
+---------------
+
+### Day 29: March 14, 2022 - Monday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Small steps!
+
+**Thoughts:** Today I'm coding from the train! Qt and its secrets are a bit annoying, but I'm discovering them one by one (even if most, today, are based on intuition more than on documentation www)
+
+**Gif:** 
+Heatmap button hovering animation |
+:----------------:|
+![Heatmap with breathing](https://user-images.githubusercontent.com/98263539/158148427-76f46358-9026-4e92-b2b7-db416c1f01f8.gif) |
