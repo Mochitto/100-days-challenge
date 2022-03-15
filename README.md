@@ -418,3 +418,11 @@ Heatmap generation |
 Heatmap button hovering animation |
 :----------------:|
 ![Heatmap with breathing](https://user-images.githubusercontent.com/98263539/158148427-76f46358-9026-4e92-b2b7-db416c1f01f8.gif) |
+
+---------------
+
+### Day 30: March 15, 2022 - Tuesday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Cleaned up the code and fixed different bugs, I'll move on with the new features tomorrow!
