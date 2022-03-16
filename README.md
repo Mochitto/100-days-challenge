@@ -426,3 +426,13 @@ Heatmap button hovering animation |
 **Today's Topics:** Python
 
 **Today's Progress**: Cleaned up the code and fixed different bugs, I'll move on with the new features tomorrow!
+
+
+---------------
+
+### Day 31: March 16, 2022 - Wednesday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Made a new class for the heatmap's widget and started working on the welcome screen.
+
