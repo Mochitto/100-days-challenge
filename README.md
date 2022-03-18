@@ -443,3 +443,12 @@ Heatmap button hovering animation |
 **Today's Topics:** Python
 
 **Today's Progress**: Welcome screen for the first login and welcome back screen made!
+
+
+---------------
+
+### Day 33: March 18, 2022 - Friday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Bug fixes, linked the widgets together. Tomorrow I will work on the info display under the heatmap and start thinking about the main screen.
