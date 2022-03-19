@@ -1,6 +1,6 @@
 # 100 Days Of Code - Growing as a self-taught Software developer
 ###### Idea from: https://www.100daysofcode.com/
-###### Jump to: [Day 10](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-10-20) | [Day 20](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-20-30)
+###### Jump to: [Day 10](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-10-20) | [Day 20](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-20-30) | [Day 30](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-30-40)
 
 ![sakura](https://user-images.githubusercontent.com/98263539/153755762-37d2a0ea-98fa-4c13-b1a6-8519a426cb31.png)
 ###### Image from: @oyasumimis
@@ -427,6 +427,9 @@ Heatmap button hovering animation |
 
 **Today's Progress**: Cleaned up the code and fixed different bugs, I'll move on with the new features tomorrow!
 
+---------------
+### Days 10-20
+
 
 ---------------
 
@@ -452,3 +455,13 @@ Heatmap button hovering animation |
 **Today's Topics:** Python
 
 **Today's Progress**: Bug fixes, linked the widgets together. Tomorrow I will work on the info display under the heatmap and start thinking about the main screen.
+
+---------------
+
+### Day 34: March 19, 2022 - Saturday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Cleaned up the code and added documentation. Thinking ahout how to store the app data for fast retrival and I'm wondering if I should use or not duplication. After deciding that, I will make a fake json file to make tests on the heatmap and create the info display, to then move on to the main screen.
+
+TODO: add image 30th Day
