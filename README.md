@@ -473,4 +473,12 @@ Heatmap button hovering animation |
 **Today's Progress**: Got back home, which means I will use my setup and code most of the day! Today I've decided the database format for the pomodoro app, brainstormed some new features and linked the screen that I currently have to the database.
 Tomorrow I will work on putting the heatmap, with its year and data display on its own widget and start working on the timer.
 
+**Gif:** 
+Welcome screens |
+:----------------:|
+![Mochitto first login](https://user-images.githubusercontent.com/98263539/159187460-87d6c3cb-a9bc-4c95-9671-6e477a9d5e0e.gif) |
+![Mochitto regular login](https://user-images.githubusercontent.com/98263539/159187470-24937571-d58c-4ca1-88d6-b8c19316b432.gif) |
+
+
+
 TODO: add image 30th Day
