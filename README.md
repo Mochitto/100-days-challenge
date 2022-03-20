@@ -464,4 +464,13 @@ Heatmap button hovering animation |
 
 **Today's Progress**: Cleaned up the code and added documentation. Thinking ahout how to store the app data for fast retrival and I'm wondering if I should use or not duplication. After deciding that, I will make a fake json file to make tests on the heatmap and create the info display, to then move on to the main screen.
 
+---------------
+
+### Day 35: March 20, 2022 - Sunday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Got back home, which means I will use my setup and code most of the day! Today I've decided the database format for the pomodoro app, brainstormed some new features and linked the screen that I currently have to the database.
+Tomorrow I will work on putting the heatmap, with its year and data display on its own widget and start working on the timer.
+
 TODO: add image 30th Day
