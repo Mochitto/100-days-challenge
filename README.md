@@ -479,6 +479,13 @@ Welcome screens |
 ![Mochitto first login](https://user-images.githubusercontent.com/98263539/159187460-87d6c3cb-a9bc-4c95-9671-6e477a9d5e0e.gif) |
 ![Mochitto regular login](https://user-images.githubusercontent.com/98263539/159187470-24937571-d58c-4ca1-88d6-b8c19316b432.gif) |
 
+---------------
 
+### Day 36: March 21, 2022 - Monday
+#####
+**Today's Topics:** Python
 
-TODO: add image 30th Day
+**Today's Progress**: Worked 5 hours on connecting the heatmap to the database and getting it to display different colours depending on the data.
+I'm still working on getting it to work completely, as to move to something else tomorrow, but I figured I'd better log now, as not to lose the github streak.
+
+TODO: add image 30th Day 
