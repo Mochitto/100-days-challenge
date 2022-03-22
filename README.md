@@ -488,4 +488,13 @@ Welcome screens |
 **Today's Progress**: Worked 5 hours on connecting the heatmap to the database and getting it to display different colours depending on the data.
 I'm still working on getting it to work completely, as to move to something else tomorrow, but I figured I'd better log now, as not to lose the github streak.
 
+---------------
+
+### Day 37: March 22, 2022 - Tuesday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Managed to get the database connected, but then spent some hours on adding the possibility to change year in the heatmap.
+
+
 TODO: add image 30th Day 
