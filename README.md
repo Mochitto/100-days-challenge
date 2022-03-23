@@ -496,5 +496,21 @@ I'm still working on getting it to work completely, as to move to something else
 
 **Today's Progress**: Managed to get the database connected, but then spent some hours on adding the possibility to change year in the heatmap.
 
+---------------
+
+### Day 38: March 23, 2022 - Wednesday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Finally finished the heatmap!!! Will move to the timer functionalities tomorrow!
+
+
+**Gif:** 
+Heatmap and color variations|
+:----------------:|
+![completed Heatmap cafe](https://user-images.githubusercontent.com/98263539/159786640-2c4dde64-e1cb-4bfe-b19a-1aedf9f7cb29.gif) |
+![Heatmap dark violet](https://user-images.githubusercontent.com/98263539/159786689-47b54f8d-2ade-4ca6-b1b8-a3acebe4d539.png) |
+![heatmap red-black](https://user-images.githubusercontent.com/98263539/159786734-5ce024e4-17a3-460d-a1f2-59619ec4296b.png) |
+![Heatmap sakura](https://user-images.githubusercontent.com/98263539/159786762-add00599-a6d9-412b-981f-459ed27da8d1.png) |
 
 TODO: add image 30th Day 
