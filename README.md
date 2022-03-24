@@ -505,12 +505,19 @@ I'm still working on getting it to work completely, as to move to something else
 **Today's Progress**: Finally finished the heatmap!!! Will move to the timer functionalities tomorrow!
 
 
-**Gif:** 
-Heatmap and color variations|
-:----------------:|
-![completed Heatmap cafe](https://user-images.githubusercontent.com/98263539/159786640-2c4dde64-e1cb-4bfe-b19a-1aedf9f7cb29.gif) |
-![Heatmap dark violet](https://user-images.githubusercontent.com/98263539/159786689-47b54f8d-2ade-4ca6-b1b8-a3acebe4d539.png) |
-![heatmap red-black](https://user-images.githubusercontent.com/98263539/159786734-5ce024e4-17a3-460d-a1f2-59619ec4296b.png) |
-![Heatmap sakura](https://user-images.githubusercontent.com/98263539/159786762-add00599-a6d9-412b-981f-459ed27da8d1.png) |
+**Gifs:** 
+Heatmap gif                |   and colour variations 
+:-------------------------:|:-------------------------:
+![completed Heatmap cafe](https://user-images.githubusercontent.com/98263539/159786640-2c4dde64-e1cb-4bfe-b19a-1aedf9f7cb29.gif) | ![Heatmap dark violet](https://user-images.githubusercontent.com/98263539/159786689-47b54f8d-2ade-4ca6-b1b8-a3acebe4d539.png) |
+![heatmap red-black](https://user-images.githubusercontent.com/98263539/159786734-5ce024e4-17a3-460d-a1f2-59619ec4296b.png) | ![Heatmap sakura](https://user-images.githubusercontent.com/98263539/159786762-add00599-a6d9-412b-981f-459ed27da8d1.png) |
+
+---------------
+
+### Day 39: March 24, 2022 - Thursday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Brainstormed on the main screen; I will have to develop both the todo list and the timer at the same time, so it will take a while!
+Today I've focused on the buttons that are going to let the user pick which to-do collection they want to use! I'm basically done with most of the code; I just have to resize everything.
 
 TODO: add image 30th Day 
