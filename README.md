@@ -520,4 +520,14 @@ Heatmap gif                |   and colour variations
 **Today's Progress**: Brainstormed on the main screen; I will have to develop both the todo list and the timer at the same time, so it will take a while!
 Today I've focused on the buttons that are going to let the user pick which to-do collection they want to use! I'm basically done with most of the code; I just have to resize everything.
 
+---------------
+
+### Day 40: March 25, 2022 - Friday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Today I've (almost) finished the buttons! I expected it to be easy, but I've had some problems to solve for them to work as I pictured in my mind :) I think they will take some more time tomorrow as wel, as I'm thinking about how to always use the same buttons but change their contents (and keep track of them).
+Also, DAY 40!! 
+
+
 TODO: add image 30th Day 
