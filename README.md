@@ -529,5 +529,21 @@ Today I've focused on the buttons that are going to let the user pick which to-d
 **Today's Progress**: Today I've (almost) finished the buttons! I expected it to be easy, but I've had some problems to solve for them to work as I pictured in my mind :) I think they will take some more time tomorrow as wel, as I'm thinking about how to always use the same buttons but change their contents (and keep track of them).
 Also, DAY 40!! 
 
+---------------
+### Days 40-50
 
-TODO: add image 30th Day 
+---------------
+
+### Day 41: March 26, 2022 - Saturday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: I've finished the buttons! I'm very satisfied with the result :) Tomorrow will be for the timer and the tasks' widgets!
+
+**Gif:** 
+Buttons! |
+:----------------:|
+![Buttons!](https://user-images.githubusercontent.com/98263539/160257127-03155b59-c7fb-4071-a758-c34f440b6237.gif) |
+
+
+TODO: add image 30th, 40th Day 
