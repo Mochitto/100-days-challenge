@@ -545,5 +545,13 @@ Buttons! |
 :----------------:|
 ![Buttons!](https://user-images.githubusercontent.com/98263539/160257127-03155b59-c7fb-4071-a758-c34f440b6237.gif) |
 
+---------------
+
+### Day 42: March 27, 2022 - Sunday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: I've debugged the buttons: now they are fully ready! I've written down the pseudo-code of the timer on paper (my eyes were hurting from using the screen and I felt very tired); I'll test it tomorrow morning and, if it works, the timer will work with just 20ish lines of code :)
+
 
 TODO: add image 30th, 40th Day 
