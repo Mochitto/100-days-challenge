@@ -554,4 +554,12 @@ Buttons! |
 **Today's Progress**: I've debugged the buttons: now they are fully ready! I've written down the pseudo-code of the timer on paper (my eyes were hurting from using the screen and I felt very tired); I'll test it tomorrow morning and, if it works, the timer will work with just 20ish lines of code :)
 
 
+---------------
+
+### Day 43: March 28, 2022 - Monday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Had kind of a burn out this morning and had to take a break for most of the day. Near the end of the day I felt better and rested and got back to it; I'm now testing the timer's precision! I'm a bit behind schedule, but I believe I can catch up the next days.
+
 TODO: add image 30th, 40th Day 
