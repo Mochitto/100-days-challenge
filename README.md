@@ -562,4 +562,12 @@ Buttons! |
 
 **Today's Progress**: Had kind of a burn out this morning and had to take a break for most of the day. Near the end of the day I felt better and rested and got back to it; I'm now testing the timer's precision! I'm a bit behind schedule, but I believe I can catch up the next days.
 
+---------------
+
+### Day 44: March 29, 2022 - Tuesday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: I feel a bit crushed by the need of thinking about my future and learning how to use programming to earn a living; this, mixed with the fact that qt is, at times, very annoying, is making me feel very tired/burnt out these days... I can't wait to be done with this project to decide what to specialize in, maybe even by changing programming language..?
+
 TODO: add image 30th, 40th Day 
