@@ -570,4 +570,12 @@ Buttons! |
 
 **Today's Progress**: I feel a bit crushed by the need of thinking about my future and learning how to use programming to earn a living; this, mixed with the fact that qt is, at times, very annoying, is making me feel very tired/burnt out these days... I can't wait to be done with this project to decide what to specialize in, maybe even by changing programming language..?
 
+---------------
+
+### Day 45: March 30, 2022 - Wednesday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: I've broken my github streak again by logging at 1am :( Today I have been feeling much better and have made a lot of progress! Tomorrow I will make the collections' menus and, hopefully, connect backend to frontend :)
+
 TODO: add image 30th, 40th Day 
