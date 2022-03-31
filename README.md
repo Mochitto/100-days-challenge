@@ -578,4 +578,12 @@ Buttons! |
 
 **Today's Progress**: I've broken my github streak again by logging at 1am :( Today I have been feeling much better and have made a lot of progress! Tomorrow I will make the collections' menus and, hopefully, connect backend to frontend :)
 
+---------------
+
+### Day 46: March 31, 2022 - Thursday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Got the menu for adding collections down :) I still have work to do; I will start working on the todo-menu (even if it is a bit scary). I hope I will be able to finish the main project before Monday.
+
 TODO: add image 30th, 40th Day 
