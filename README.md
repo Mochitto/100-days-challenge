@@ -586,4 +586,13 @@ Buttons! |
 
 **Today's Progress**: Got the menu for adding collections down :) I still have work to do; I will start working on the todo-menu (even if it is a bit scary). I hope I will be able to finish the main project before Monday.
 
+---------------
+
+### Day 47: March 1, 2022 - April
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Even if I'm coding everyday for more than 6 hours (and basically all of them are spend on actually typing, it feels wild), I still remember to update github at 0:08 am. Breaking the streak for 8 minutes. Its so annoying... I'm getting closer to a big update on the pomodoro app tho!
+
+
 TODO: add image 30th, 40th Day 
