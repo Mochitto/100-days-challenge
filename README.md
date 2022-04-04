@@ -588,11 +588,17 @@ Buttons! |
 
 ---------------
 
-### Day 47: March 1, 2022 - April
+### Day 47: April 1, 2022 - Friday
 #####
 **Today's Topics:** Python
 
 **Today's Progress**: Even if I'm coding everyday for more than 6 hours (and basically all of them are spend on actually typing, it feels wild), I still remember to update github at 0:08 am. Breaking the streak for 8 minutes. Its so annoying... I'm getting closer to a big update on the pomodoro app tho!
 
+---------------
 
-TODO: add image 30th, 40th Day 
+### Day 48-50: April 4, 2022 - Monday
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: These days impostor syndrom and a bit of fear of the future made me struggle to work on the project... I've still managed to work on it for at least three hours a day and I'm getting closer to its end. I truly can't wait to move on.
+
