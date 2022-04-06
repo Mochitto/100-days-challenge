@@ -602,3 +602,13 @@ Buttons! |
 
 **Today's Progress**: These days impostor syndrom and a bit of fear of the future made me struggle to work on the project... I've still managed to work on it for at least three hours a day and I'm getting closer to its end. I truly can't wait to move on.
 
+
+---------------
+
+### Day 51-52: April 6, 2022 - Thursday
+
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Today I've focused on cleaning up the code to move to be able to fix some of the app's bugs more efficiently. I've also understood what to study once I will be done with this :)
+
