@@ -605,10 +605,19 @@ Buttons! |
 
 ---------------
 
-### Day 51-52: April 6, 2022 - Thursday
+### Day 51-52: April 6, 2022 - Wednesday
 
 #####
 **Today's Topics:** Python
 
 **Today's Progress**: Today I've focused on cleaning up the code to move to be able to fix some of the app's bugs more efficiently. I've also understood what to study once I will be done with this :)
 
+
+---------------
+
+### Day 53: April 7, 2022 - Thursday
+
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: Still working on the code make-over!
