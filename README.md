@@ -1,7 +1,7 @@
 # 100 Days Of Code - Growing as a self-taught Software developer
 ###### Idea from: https://www.100daysofcode.com/
 ###### Jump to: [Day 10](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-10-20) | [Day 20](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-20-30) | [Day 30](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-30-40) | [Day 40](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-40-50)
-
+ 
 ![sakura](https://user-images.githubusercontent.com/98263539/153755762-37d2a0ea-98fa-4c13-b1a6-8519a426cb31.png)
 ###### Image from: @oyasumimis
 
