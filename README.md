@@ -620,4 +620,14 @@ Buttons! |
 #####
 **Today's Topics:** Python
 
-**Today's Progress**: Still working on the code make-over!
+**Today's Progress**: Still working on the code make-over!\
+
+
+---------------
+
+### Day 54/55: April 8/9, 2022 - Friday/Saturday
+
+#####
+**Today's Topics:** Python
+
+**Today's Progress**: I've decided to specialize in back-end development and will follow this roadmap! https://roadmap.sh/backend
