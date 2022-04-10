@@ -631,3 +631,12 @@ Buttons! |
 **Today's Topics:** Python
 
 **Today's Progress**: I've decided to specialize in back-end development and will follow this roadmap! https://roadmap.sh/backend
+
+---------------
+
+### Day 56: April 10, 2022 - Sunday
+
+#####
+**Today's Topics:** Basic networking
+
+**Today's Progress**: I've learned how TCP/IP, HTML, DNS work and what they are!
