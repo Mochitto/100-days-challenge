@@ -640,3 +640,12 @@ Buttons! |
 **Today's Topics:** Basic networking
 
 **Today's Progress**: I've learned how TCP/IP, HTML, DNS work and what they are!
+
+---------------
+
+### Day 57: April 11 2022 - Monday
+
+#####
+**Today's Topics:** Basic networking
+
+**Today's Progress**: Finished the basic networking module :) From tomorrow I will start studying web development!
