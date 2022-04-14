@@ -649,3 +649,13 @@ Buttons! |
 **Today's Topics:** Basic networking
 
 **Today's Progress**: Finished the basic networking module :) From tomorrow I will start studying web development!
+
+---------------
+
+### Day 58: April 14 2022 - Thursday
+
+#####
+**Today's Topics:** Basic HTML
+
+**Today's Progress**: I'm currently sick with COVID; had to skip two days due to awful symptoms. I'm still sick, but I think I can work a small bit.
+
