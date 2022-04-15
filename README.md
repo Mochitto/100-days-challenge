@@ -659,3 +659,12 @@ Buttons! |
 
 **Today's Progress**: I'm currently sick with COVID; had to skip two days due to awful symptoms. I'm still sick, but I think I can work a small bit.
 
+---------------
+
+### Day 59: April 15 2022 - Friday
+
+#####
+**Today's Topics:** HTML
+
+**Today's Progress**: More html!
+
