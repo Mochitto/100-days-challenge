@@ -1,4 +1,4 @@
-# 100 Days Of Code - Growing as a self-taught Software developer
+# 100 Days Of Code - Growing as a self-taught Software developer 
 ###### Idea from: https://www.100daysofcode.com/
 ###### Jump to: [Day 10](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-10-20) | [Day 20](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-20-30) | [Day 30](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-30-40) | [Day 40](https://github.com/Mochitto/100-days-challenge/blob/main/README.md#Days-40-50)
  
@@ -668,3 +668,11 @@ Buttons! |
 
 **Today's Progress**: More html!
 
+---------------
+
+### Day 60: April 16 2022 - Saturday
+
+#####
+**Today's Topics:** HTML and CSS
+
+**Today's Progress**: Finished HTML and started CSS :)
