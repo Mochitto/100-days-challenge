@@ -685,3 +685,12 @@ Buttons! |
 **Today's Topics:** HTML and CSS
 
 **Today's Progress**: More CSS!
+
+---------------
+
+### Day 62: April 18/20 2022 - Sunday
+
+#####
+**Today's Topics:** HTML and CSS
+
+**Today's Progress**: Took it easy for a couple of days, I'm now finishing up my very first webpage!
