@@ -688,9 +688,18 @@ Buttons! |
 
 ---------------
 
-### Day 62: April 18/20 2022 - Sunday
+### Day 62: April 18/20 2022 - Wednesday
 
 #####
 **Today's Topics:** HTML and CSS
 
 **Today's Progress**: Took it easy for a couple of days, I'm now finishing up my very first webpage!
+
+---------------
+
+### Day 63: April 21 2022 - Thursday
+
+#####
+**Today's Topics:** Bootstrap basics
+
+**Today's Progress**: Finished building my first webpage and now I'm working on a tinder for dogs?? 
