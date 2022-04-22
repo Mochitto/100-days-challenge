@@ -703,3 +703,12 @@ Buttons! |
 **Today's Topics:** Bootstrap basics
 
 **Today's Progress**: Finished building my first webpage and now I'm working on a tinder for dogs?? 
+
+---------------
+
+### Day 64: April 22 2022 - Friday
+
+#####
+**Today's Topics:** Bootstrap basics
+
+**Today's Progress**: Finished building tindog!
