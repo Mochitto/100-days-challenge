@@ -719,3 +719,12 @@ Buttons! |
 
 #####
 **Today's Topics:** Design
+
+---------------
+
+### Day 66: April 24 2022 - Sunday
+
+#####
+**Today's Topics:** Design and JS!
+
+
