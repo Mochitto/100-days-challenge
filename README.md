@@ -728,3 +728,9 @@ Buttons! |
 **Today's Topics:** Design and JS!
 
 
+---------------
+
+### Day 67: April 25 2022 - Monday
+
+#####
+**Today's Topics:** JS Basics!
